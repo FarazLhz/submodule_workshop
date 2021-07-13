@@ -1,3 +1,6 @@
 [submodule "First-repo"]
 	path = First-repo
 	url = https://github.com/FarazLhz/First-repo
+[submodule "submodule-workshop1"]
+	path = submodule-workshop1
+	url = https://github.com/FarazLhz/submodule-workshop1
